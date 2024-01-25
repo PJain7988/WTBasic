@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#heading{
+    color: blue;
+    background-color: black;
+    padding: 10px;
+}
+.layout{
+    width: 1000px;
+    margin: 0 auto;
+}  
+.header-part{
+    height: 200px;
+    width: 100%;
+    background-color: lightblue;
+}
+.nav-part{
+    height: 30px;
+    width: 100%;
+    background-color: blue;
+}
+.main-part{
+    height: 500px;
+    width: 100%;
+    background-color: lightgreen;
+}
+.footer{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+}
+.gallery{
+    width: 1000px;
+    margin: 0 auto;
+}
+.gallery-row{
+    height:200px;
+}
+.pic{
+    width: 20%;
+    float: left;
+    height: 180px;
+}
+.pic img{
+    height:100%;
+    width:100%
+}
+.choose-country{
+    height:300px;
+    width:100%;
+    margin: 0 auto;
+    background-color: aqua;
+}
+.heading h2{
+    text-align:center;
+    padding-top: 10px;
+}
+.country{
+    width: 80%;
+    background-color: white;
+    box-shadow: 2px 2px 5px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.item{
+    width: 22%;
+    float: left;
+    height: 150px;
+    margin-left: 20px;
+}
+.item img{
+    width: 50%;
+    height: 50%;
+}
+.expert{
+    height: 400px;
+    width: 100%;
+    background-color: white;
+}
+.middle{
+    width:80%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.left{
+    width: 33%;
+    float: left;
+    height: 250px;
+}
+.left h6{}
+.left h1{}
+.left p{}
+.left button{
+    background-color: red;
+}
+.image-box{
+    width: 30%;
+    float: left;
+    height: 250px;
+}
+.image-box img{
+    height: 200px;
+    width: 100%;
+}
